@@ -1,4 +1,4 @@
-#include "headers\RadioSetup.h"  //Radio setup routine
+#include "RadioSetup.h"  //Radio setup routine
 #include <Adafruit_LIS3DH.h>  //Accelerometer library
 #include <Adafruit_Sensor.h>  //Accelerometer library
 #include <SPI.h>  //SPI hardware library
