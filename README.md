@@ -6,3 +6,5 @@ The included code works when I use two nanos, but when I replace one of the nano
 <img src="nano.PNG" width="50%"><img src="feather.PNG" width="50%">
 
 Any help would be appreciated. 
+
+Note:  I do change the CE and CSN pin in the RadioSetup.h file to suit either the feather or the nano.  I only uploaded one copy as an example.  
